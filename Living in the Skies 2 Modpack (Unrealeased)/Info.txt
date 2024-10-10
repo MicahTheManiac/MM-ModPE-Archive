@@ -1,0 +1,33 @@
+== Mod Information ==
+Creation Date: Sometime in 2016
+Supported Versions: Unsure, maybe 0.14
+
+== Description ==
+The 2nd Edition to Living in the Skies. I think this was maybe created around a year after the first Modpack. This utilizes a custom tool API, which was something too advanced for me, so thankfully someone created that. The script file contains over 1000 lines of code thanks to this API and the Core or LITS2. I ended up giving this off to someone else to develop, but I forget who and I don't think it ever got released.
+
+== Script Comment Description ==
+Living in the Skies 2 -- Develeoper Edition
+
+by MICAHMINER
+
+©MICAHMINER
+©MICAHMINER Modding™
+©MicahTheManiac
+/==\
+TAMPERING WITH THE SOURCE CODE IS NOT ALLOWED UNLESS IT IS FOR PERSONAL USE AND IS NOT RELEASED TO THE PUBLIC!
+
+DO NOT STEAL/REPOST THIS MODPACK OR THE SOURCE CODE TO ANYONE!
+
+Thank you;
+-Micah Thompson
+
+©MICAHMINER
+©MICAHMINER Modding™
+©MicahTheManiac
+\==/
+
+All Mods used with permission from creator.
+Mods: (Mods marked with a "×" are officially part of this pack)
+× Elemental Alchemist Mod - by MICAHMINER ×
+× Easy Tool Coding API - by TaQultO | OPEN SOURCE FOR ALL MODDERS
+× Gold Into Diamonds 3 - by MICAHMINER (been modified WITH permission)

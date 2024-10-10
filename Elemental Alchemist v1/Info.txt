@@ -1,0 +1,17 @@
+== Mod Information ==
+Creation Date: Early 2016
+Supported Versions: Likely MCPE 0.13 & 0.14
+
+== Description ==
+As the Script file says, this it was inspired by "The Iron Alchemist" by Jragon014. Looking back at this in 2014, I didn't know what exactly I was talking about back then, but a quick search led me to this: https://youtu.be/TBeYLbWmPqc
+As far as I can tell, this is what inspired me to create a very similar mod.
+
+== Script Comment Description ==
+This Mod is based off of The Iron Alchemist command block module for the Enchanted Engines Command ModPack Project by Jragon014
+
+This mod allows you to place 8 of any ore down and get more in return along with some EXP.
+
+©MicahTheManiac
+MICAHMINER Modding™
+
+micahthemaniac.weebly.com

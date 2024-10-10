@@ -1,0 +1,25 @@
+== Mod Information ==
+Creation Date: Between June 2015 - September 2015
+Supported Versions: MCPE 0.11.0 / 0.11.1
+
+== Description ==
+To be honest, I forget a lot of what this mod did. So let me piece it together for you. I think older versions were far more useless.
+- Coverts Diamond Ore (id 56) to 3 Diamonds (id 264)
+- Converts Gold Ore (id 14) to 2 Gold Ingots (id 266)
+- Converts Iron Ore (id 15) to 2 Iron Ingots (id 265)
+- Converts Obsidian to Block ID 246 (Fairly certain it's Glowing Obsidian)
+- Converts Redstone Ore (id 73) to 9 Redstone Dust (id 331)
+- Converts Glowing Redstone Ore (id 74) to 12 Redstone Dust (id 331)
+- Silk Touches Ice Block (id 79)
+- Silk Touches Glass (id 20)
+- Silk Touches Block ID 243 (Fairly certain it's the Nether Reactor Core)
+- Silk Touches Mycelium (id 110)
+- Silk Touches Grass Block (id 2)
+- Silk Touches
+- Explodes TNT (id 46)
+- Converts Block ID 255 (Update Tile?) to Error Item (custom id 1000)
+- Deletes Diamond Block (id 57)
+
+== Script Comment Description ==
+Super Staff v.6 (aka Super Staff 0.11)
+A Complete remake of the Super Staff Mod

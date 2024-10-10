@@ -1,0 +1,16 @@
+== Mod Information ==
+Creation Date: Around May 2015
+Supported Versions: MCPE 0.10
+
+== Description ==
+My 3rd Modpack believe it or not. This was inspired by Skyfactory somewhat. This combined Gold into Diamonds 2, my Camping Mod, and the Super Staff Mod. Ontop of these mods there are special items designed to make an interesting skyblock experience.
+
+== Script Comment Description ==
+Mods:
+Gold Into Diamonds 2,
+MICAHMINER's Camping Mod,
+and Super Staff Mod
+Mod Pack put together by MICAHMINER
+Mods & Map made by MICAHMINER
+Although there are mods I have also coded in my own stuff
+WHY U LOOKIN' AT THE CODE?!

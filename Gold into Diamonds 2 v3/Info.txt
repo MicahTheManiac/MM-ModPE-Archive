@@ -1,0 +1,25 @@
+== Mod Information ==
+Creation Date: Likely Mid 2015
+Supported Versions: Likely MCPE 0.10 / 0.11
+
+== Description ==
+Gold into Diamonds was a mod I made back for Minecraft PE 0.8.1. I forget what much of the original mod did besides turn gold into diamonds, but given Pre-0.9.0 had 256x256 worlds, it would have made some sense to convert some useless gold into diamonds. For the 2nd Edition, I decided to add blocks known as Generators that would generate these diamonds.
+
+originalZIP.zip is the original ZIP file for the mod.
+
+== Script Comment Description ==
+Gold Into Diamonds 2!
+MICAHMINER is bringing one of his old mods back to life!
+DO NOT COPY OR POST AND SAY THIS MOD IS YOURS!!!
+-----
+UPDATE NOTE: Gold Into Diamonds 2 v.3 -
+
+FIXES:
+NONE! :)
+
+TWEAKS:
+Diamond Gerneration in Generators
+
+ADDS:
+Wand (Chargable)
+Diamond Reactor

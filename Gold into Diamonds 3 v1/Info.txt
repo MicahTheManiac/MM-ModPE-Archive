@@ -1,0 +1,19 @@
+== Mod Information ==
+Creation Date: Late 2015
+Supported Versions: Likely MCPE 0.11 / 0.12
+
+== Description ==
+Gold into Diamonds was a mod I made back for Minecraft PE 0.8.1. I forget what much of the original mod did besides turn gold into diamonds, but given Pre-0.9.0 had 256x256 worlds, it would have made some sense to convert some useless gold into diamonds. The 3rd Edition removes the "Block Grabbing Claw" and adds a new ore, which doesn't generate. No idea where I was going with that gimmick.
+
+== Script Comment Description ==
+Gold Into Diamonds 3
+
+Edition: 3.0
+Version: 1.0 Dev
+(v.1) Script Project Name: a-202_gid3
+___
+
+Creator: MICAHMINER
+Expansion Packs: null;
+
+Adds: Generators (From Old & a New Type), Wands (From Old) & Staffs, & Diamond Forging. (And some stuff from the Addon Diamond Overload)

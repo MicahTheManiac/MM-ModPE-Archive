@@ -1,0 +1,22 @@
+== Mod Information ==
+Creation Date: Late 2015
+Supported Versions: MCPE 0.12
+
+== Description ==
+Definitely inspired by Terra Firma Craft. Not sure if I ever released this in beta or not. I do know I wanted to allow support for other mods to use with this. The main addition is spears and the fact you could not break items without a tool. You needed fiber which I think dropped from grass.
+
+== Script Comment Description ==
+Project Hard+
+by: MICAHMINER
+
+Version: 1.0 Dev
+(v.1) Script Project Name: a-202_ph+
+
+Creator: MICAHMINER
+Expansion Packs: Camping Tools (12/1/15 Expected Release)
+
+Adds: New game mechanics; Hard to get wood, breaking Tall Grass & Ferns gives you Fiberous Root, etc.
+
+ © Copyright 2015 Project ENHANCEMENT+
+ © Copyright 2015 MICAHMINER
+ © http://projectenhancementplus.weebly.com

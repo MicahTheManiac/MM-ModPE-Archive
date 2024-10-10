@@ -1,0 +1,16 @@
+Change Log for Super Staff Mod v.6
+
+Super Staff Item:
+•New Texture
+that is compatible with other mods
+•New Crafting Recipe (4 Gold Ingots, 2 Redstone Dust, & 1 Diamond)
+•Can see the Super Staff in 3rd person
+
+Fuction:
+•Can collect Coal from Coal Ore
+•Can collect Emeralds from Emerald Ore
+•Can collect Ice blocks without getting Snowballs
+
+Combat:
+•No longer 1 hit kills for Boss Mobs in other Mods
+•Changed from 1 hit kills to taking away 70 HP (70 Health-Points/Half-Hearts)

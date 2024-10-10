@@ -1,0 +1,14 @@
+== Mod Information ==
+Creation Date: Late 2015
+Supported Versions: MCPE 0.12
+
+== Description ==
+I had once created a Lightsaber mod, I think for MCPE 0.9.5 or 0.10, I can't remember. This is a rebranding of the mod. I think I was not allowed to post on MCPE Hub with the term lightsaber. I had some issues with that site, one such incident involved a mod of mine being taken down for lashing out at a comment. (The person was advertising something they made.) Anyways, this adds Redstone Swords, or Lightsabers. I think I planned to have all 16 dye colors in the full release.
+
+== Script Comment Description ==
+Redstone Swords Mod - Light Saber Mod 2.0!
+
+Creator: MICAHMINER
+
+Version: 1.0 Dev
+Script Project Name: 9X-202_rsm
